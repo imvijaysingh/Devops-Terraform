@@ -1,0 +1,5 @@
+aws_access_key = "<<Your Access Key>>"
+aws_secret_key = "<<Your SecretKey>>"
+key_name = "tf-ec2"
+region   = "ap-south-1"
+instance_type = "t2.micro"
